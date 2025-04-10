@@ -1,0 +1,130 @@
+body {
+    background: no-repeat url(./images/background\ image.jpg) ;
+}
+
+form {
+    background: no-repeat url(./images/image.jpg);
+    justify-content: center;
+    margin: 40px 100px;
+    height: 500px;
+    position: relative;
+}
+.wrapper {
+    border: none;
+    outline: none;
+    text-align: center;
+    display: inline-block;
+    height: 100%;
+    width: 50%;
+    background-color: #383b43ff;
+    color: white;
+}
+
+.wrapper {
+    position: absolute;
+    right: 0;
+}
+
+.name {
+    margin-bottom: 10px;
+    border-bottom: 2px solid #8e9099ff;
+    margin: 40px;
+}
+
+.name input {
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+    color: white;
+}
+
+.email-adress {
+    margin-bottom: 10px;
+    border-bottom: 2px solid #8e9099ff;
+    margin: 40px;
+}
+
+.email-adress input {
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+    color: white;
+}
+
+.phone-number {
+    margin-bottom: 10px;
+    border-bottom: 2px solid #8e9099ff;
+    margin: 40px;
+}
+
+.phone-number input {
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+    color: white;
+}
+
+.password {
+    margin-bottom: 10px;
+    border-bottom: 2px solid #8e9099ff;
+    margin: 40px;
+}
+
+.password input {
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+    color: white;
+}
+
+.c-password {
+    margin-bottom: 10px;
+    border-bottom: 2px solid #8e9099ff;
+    margin: 40px;
+}
+
+.c-password input {
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+.button button {
+    width: 210px;
+    height: 60px;
+    background-color: rgb(83, 83, 247);
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    position: absolute;
+    left: 40px;
+    text-transform: uppercase;
+    
+}
+
+.button button:hover{
+    background-color: white;
+    color: black;
+}
+
+.button button:active {
+    background-color: green;
+    color: white;
+}
+
+.button a {
+    color: #8e9099ff;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+
+.mayu {
+    color: white;
+    margin: 80px;
+}
